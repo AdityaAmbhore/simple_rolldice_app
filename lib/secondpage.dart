@@ -26,7 +26,7 @@ class _SecondPage extends State<SecondPage> {
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         Image.asset(
-          'assetes/images/dice-$curentdicenum.png',
+          'assets/images/dice-$curentdicenum.png',
           width: 200,
         ),
         TextButton(
